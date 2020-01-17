@@ -6,6 +6,8 @@ public class Converter {
     * Joel Happ
     *
     */
+	
+	//This is the development branch
 
     private double celsiusToFahrenheit(double C){
         // TODO: The third student will implement this method
