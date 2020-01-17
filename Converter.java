@@ -3,13 +3,13 @@ public class Converter {
     /*
     * @Author: Jerome Gobeil
     * Vaibhav Kapoor
-    * Name of the third student
+    * Joel Happ
     *
     */
 
     private double celsiusToFahrenheit(double C){
         // TODO: The third student will implement this method
-        return 0;
+        return (1.8*C + 32);
     }
 
     private double fahrenheitToCelsius(double F){
