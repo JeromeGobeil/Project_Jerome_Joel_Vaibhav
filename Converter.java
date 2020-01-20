@@ -7,7 +7,7 @@ public class Converter {
     *
     */
 	
-	//This is the development branch
+	//This is the feature branch
 
     private double celsiusToFahrenheit(double C){
         // TODO: The third student will implement this method
@@ -17,6 +17,10 @@ public class Converter {
     private double fahrenheitToCelsius(double F){
         // TODO: The second student will implement this method
         return (F-32)(5/9);
+    }
+
+    private double kilometersToMiles(double K){
+        return (K/1.609344);
     }
     
     public static void main(String[] args) {
