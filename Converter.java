@@ -28,5 +28,7 @@ public class Converter {
     	double farenheit = celsiusToFarenheit(180);
     // Call FahrenheitToCelsius to convert 250 Fahrenheit to Celsius value.
     	double celsius = fahrenheitToCelsius(250);
+    //Call kilometersToMiles to convert 30 Kilometers to Miles
+    	double miles = kilometersToMiles(30);
     }
 }
